@@ -60,8 +60,8 @@ class _HomePageState extends State<HomePage> {
                 ElevatedButton(
                   onPressed: () async {
                     final post = await _postClient.createPost(
-                      "Hi Dart",
-                      "Dart hello world",
+                      "Hi 坚果",
+                      "你要加油呀",
                     );
                     setState(() {
                       _requestType = 'POST';
@@ -75,8 +75,8 @@ class _HomePageState extends State<HomePage> {
                   onPressed: () async {
                     final post = await _postClient.updatePost(
                       1,
-                      "Hello Flutter",
-                      "Flutter hello world",
+                      "Hello 坚果前端",
+                      "早起的年轻人",
                     );
                     setState(() {
                       _requestType = 'PUT';

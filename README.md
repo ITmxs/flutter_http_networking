@@ -59,3 +59,4 @@ SOFTWARE.
 
 如果大家喜欢的话，可以关注我的公众号”坚果前端“
 
+![img](https://luckly007.oss-cn-beijing.aliyuncs.com/images3B1E633F742DA026057B26D3BA8FEB15.jpg)
