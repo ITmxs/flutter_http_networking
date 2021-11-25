@@ -11,7 +11,7 @@
 
 它还包括如何使用[Mockito](https://pub.dev/packages/mockito)测试网络请求。
 
-## 套餐
+## 软件包
 
 此应用程序中使用的软件包如下：
 
